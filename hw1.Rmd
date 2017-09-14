@@ -29,6 +29,26 @@ My favorite quote is
 | STAT 297 |  12:05-1:20 TTh |
 |  JST012  |  3:05-4:20 TTh  |
 
+####   Thomas Martin
+
+![Here is a picture of me.]
+
+My favorite hobbies are swimming and playing video games. An interesting fact about me is that I was born on Christmas.
+
+My favorite quote is:
+
+> "The only source of knowledge is experience."- Albert Einstein
+
+
+|  Courses |       Time      |
+|:--------:|:---------------:|
+| ASTRO  1 |      WEB        |
+| STAT 461 |  8:00-8:50 MWF  |
+| ENGL 202B| 9:05-10:20 TTh  |
+| STAT 414 | 11:15-12:05 MWF |
+| GLIS 102 |  3:05-4:30 TTh  |
+| STAT 297 |  12:05-1:20 TTh |
+
 
 ## R Markdown Syntax
 * Part 1
