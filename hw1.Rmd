@@ -1,0 +1,21 @@
+---
+title: "Homework1"
+author: "Zihan Zhang;Xinjian Zhou;Martin Thomas"
+date: "2017/9/13"
+output: html_document
+---
+
+## Introduction
+
+## Group Members
+####   Zihan Zhang
+![A photo I took with my phone](/Users/zihanzhang/Desktop/stat297/Github/HW1/78.JPG){width=60%}
+
+I love photography, video games, and reading. One interesting fact about me is that this is my first semester at PSU since I'm a transfer student.
+
+My favorite quote is
+
+> "Sometimes things become possible if we 
+> want them bad enough"-T.S.Eliot
+
+
