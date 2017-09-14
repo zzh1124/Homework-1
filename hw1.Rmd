@@ -2,8 +2,10 @@
 title: "Homework1"
 author: "Zihan Zhang;Xinjian Zhou;Thomas Martin"
 date: "2017/9/13"
-output: html_document
-bibliography: biblio.bib 
+output:
+  pdf_document: default
+  html_document: default
+bibliography: biblio.bib
 ---
 
 ## Introduction
@@ -29,6 +31,20 @@ My favorite quote is
 | STAT 297 |  12:05-1:20 TTh |
 |  JST012  |  3:05-4:20 TTh  |
 
+####    Xinjiu Zhou
+
+
+|  Courses |       Time      |
+|:--------:|:---------------:|
+| STAT 461 |  8:00-8:50 MWF  |
+| STAT 415 |  4:40-5:30 MWF  |
+| STAT 416 |  3:35-4:20 MWF  |
+| STAT 297 |  12:05-1:20 TTh |
+| SC 220   |  6:05-7:30 M    |
+|  IE 460  |  10:10-11:00 MWF|
+|IE 470 LEC|  9:05-9:55 MW   |
+|IE 470 LAB|  3:35-5:25 T    |
+|  IE 497  |  1:25-2:15 MWF  |
 
 ## R Markdown Syntax
 * Part 1
@@ -64,7 +80,7 @@ hist(x,main="", col = "blue")
 $$=var(v_{1}(\theta _{0},n)+\vartheta (n^{-2}))$$ 
 $$A=[a_{ij}]_{ij=1,...,p}$$
 
-<span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu
+<span style="color:blue">“Vérité dans un temps, erreur dans un autre.�?, Charles de Montesquieu
 
 
  <center><button type="button"onclick="alert('Working on the update...')">More Info</button> </center>
