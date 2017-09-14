@@ -10,7 +10,16 @@ bibliography: biblio.bib
 
 This assignment introduces our group and shows that we understand how to use github and r markdown. We start with a video introducing our members and then each have a summary of our schedule and interests. Last, we have a lot of rmarkdown code to show that we understand how to use r markdown.
 
-[![Watch the video](https://github.com/zzh1124/STAT297HW1/blob/master/IMG_0851.MOV](https://github.com/zzh1124/STAT297HW1/blob/master/IMG_0851.MOV)
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+```{r, echo=FALSE}
+knitr::include_url("https://www.youtube.com/embed/y0oDYyEE5hc")
+```
+</center>
 
 
 ## Group Members
