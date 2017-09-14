@@ -31,3 +31,16 @@ My favorite quote is
 
 
 ## R Markdown Syntax
+
+```{r theA, cache = TRUE}
+a=120
+```
+
+```{r,cache = TRUE}
+(c=a/3)
+```
+
+```{r, cache = TRUE, dependson = "theA"}
+(c=a/3)
+```
+
