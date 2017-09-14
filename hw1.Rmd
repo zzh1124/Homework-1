@@ -55,7 +55,10 @@ sd(x)
 ```
 Analysis of the random data: 
 The results are normal since they are very close to 0,0,1.
-```{r, dependson= "rvx"}
-hist(x)  
+```{r, fig.cap="**Histogram:** 100 random virables from normal random distribution", fig.align='center', dependson= "rvx"}
+hist(x,main="", col = "blue")  
 ```
 
+* Part 3
+$$𝔼[var(v_{1}(\hat{\theta },n)|\hat{\theta})]=var(v_{1}(\theta _{0},0))+𝔼[\vartheta _{p}(D_{1}(\theta ^{*},n)(\hat{\theta }-\theta _{0}),...,D_{p}(\theta ^{*},n)(\theta -\theta _{0}))]$$ 
+$$=var(v_{1}(\theta _{0},n)+\vartheta (n^{-2}))$$ 
