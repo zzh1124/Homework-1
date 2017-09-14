@@ -8,6 +8,9 @@ bibliography: biblio.bib
 
 ## Introduction
 
+[![Watch the video](https://github.com/zzh1124/STAT297HW1/blob/master/IMG_0851.MOV](https://github.com/zzh1124/STAT297HW1/blob/master/IMG_0851.MOV)
+
+
 ## Group Members
 ####   Zihan Zhang
 ![A photo I took with my phone](https://github.com/zzh1124/Homework-1/blob/master/78.JPG?raw=true/78.JPG){width=60%}
@@ -52,6 +55,14 @@ My favorite quote is:
 
 #### Xinjiu Zhou
 
+![My photo was took at Alasks last year](https://github.com/zzh1124/STAT297HW1/blob/master/Xin.JPG?raw=true){width=50%}
+
+Just as my other group members, I like video games! I also like to do rafting. I also like bedmintons.
+
+Here is my favorite quote:
+
+> "Great things in business are never done by one person. They're done by a team of people."- Steve Jobs
+
 
 |  Courses |       Time      |
 |:--------:|:---------------:|
@@ -64,7 +75,6 @@ My favorite quote is:
 |IE 470 LEC|  9:05-9:55 MW   |
 |IE 470 LAB|  3:35-5:25 T    |
 |  IE 497  |  1:25-2:15 MWF  |
-
 
 
 
@@ -103,7 +113,7 @@ hist(x,main="", col = "blue")
 $$=var(v_{1}(\theta _{0},n)+\vartheta (n^{-2}))$$ 
 $$A=[a_{ij}]_{ij=1,...,p}$$
 
-<span style="color:blue">“Vérité dans un temps, erreur dans un autre.�?, Charles de Montesquieu
+<span style="color:blue">“Vérité dans un temps, erreur dans un autre.???, Charles de Montesquieu
 
 
  <center><button type="button"onclick="alert('Working on the update...')">More Info</button> </center>
