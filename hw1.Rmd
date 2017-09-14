@@ -31,8 +31,27 @@ My favorite quote is
 | STAT 297 |  12:05-1:20 TTh |
 |  JST012  |  3:05-4:20 TTh  |
 
-####    Xinjiu Zhou
 
+####   Thomas Martin
+
+![Here is a picture of me](https://github.com/zzh1124/Homework-1/blob/master/tjm.JPG?raw=true/tjm.JPG){width=60%}
+
+My favorite hobbies are swimming and playing video games. An interesting fact about me is that I was born on Christmas.
+
+My favorite quote is:
+
+> "The only source of knowledge is experience."- Albert Einstein
+>>>>>>> 5399ca25ef28c8bd9142f3e73c82de0159c409e4
+
+| ASTRO  1 |      WEB        |
+| STAT 461 |  8:00-8:50 MWF  |
+| ENGL 202B| 9:05-10:20 TTh  |
+| STAT 414 | 11:15-12:05 MWF |
+| GLIS 102 |  3:05-4:30 TTh  |
+| STAT 297 |  12:05-1:20 TTh |
+
+
+#### Xinjiu Zhou
 
 |  Courses |       Time      |
 |:--------:|:---------------:|
@@ -45,6 +64,10 @@ My favorite quote is
 |IE 470 LEC|  9:05-9:55 MW   |
 |IE 470 LAB|  3:35-5:25 T    |
 |  IE 497  |  1:25-2:15 MWF  |
+
+
+
+
 
 ## R Markdown Syntax
 * Part 1
