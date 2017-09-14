@@ -1,8 +1,0 @@
----
-title: "Homework1"
-author: "Zihan Zhang;Xinjian Zhou;Martin Thomas"
-date: "2017/9/13"
-output: html_document
----
-
-#Introduction
