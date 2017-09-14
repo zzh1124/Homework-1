@@ -10,7 +10,7 @@ bibliography: biblio.bib
 
 ## Group Members
 ####   Zihan Zhang
-![A photo I took with my phone](/Users/zihanzhang/Desktop/stat297/Github/HW1/78.JPG){width=60%}
+![A photo I took with my phone](https://github.com/zzh1124/Homework-1/blob/master/78.JPG?raw=true/78.JPG){width=60%}
 
 I love photography, video games, and reading. One interesting fact about me is that this is my first semester at PSU since I'm a transfer student.
 
