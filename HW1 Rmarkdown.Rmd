@@ -1,0 +1,10 @@
+---
+title: "Hw1"
+author: "Zihan Zhang;Xinjian Zhou;Martin Thomas"
+date:  `time`
+output: html_document
+---
+```{r time}
+Sys.time()
+```
+
