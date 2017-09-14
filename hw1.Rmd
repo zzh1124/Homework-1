@@ -1,8 +1,9 @@
 ---
 title: "Homework1"
-author: "Zihan Zhang;Xinjian Zhou;Martin Thomas"
+author: "Zihan Zhang;Xinjian Zhou;Thomas Martin"
 date: "2017/9/13"
 output: html_document
+bibliography: biblio.bib 
 ---
 
 ## Introduction
@@ -19,3 +20,14 @@ My favorite quote is
 > want them bad enough"-T.S.Eliot
 
 
+|  Courses |       Time      |
+|:--------:|:---------------:|
+| STAT 461 |  8:00-8:50 MWF  |
+| Math 230 | 9:05-9:55 MWThF |
+| STAT 414 |  1:25-2:15 MWF  |
+| ACCT 211 |  8:00-8:50 TTh  |
+| STAT 297 |  12:05-1:20 TTh |
+|  JST012  |  3:05-4:20 TTh  |
+
+
+## R Markdown Syntax
