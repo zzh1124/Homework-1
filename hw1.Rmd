@@ -69,4 +69,9 @@ $$A=[a_{ij}]_{ij=1,...,p}$$
 
  <center><button type="button"onclick="alert('Working on the update...')">More Info</button> </center>
  
-<o style="background-color:Red">Warning!This is the end of the page</p>
+<p style="background-color:Red">Warning!This is the end of the page</p>
+
+## Reference
+* R Markdown From R Studio. (n.d.). Retrieved September 14, 2017, from http://rmarkdown.rstudio.com/lesson-3.html
+* Matthew Beckman, Stéphane Guerrier, Justin Lee & Roberto Molinari. (2017, September 11). An Introduction to Statistical Programming Methods with R. Retrieved September 14, 2017, from https://smac-group.github.io/ds/rmarkdown.html#
+* https://www.codecogs.com/latex/eqneditor.php
