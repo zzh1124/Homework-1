@@ -31,7 +31,7 @@ My favorite quote is
 
 ####   Thomas Martin
 
-![Here is a picture of me](https://github.com/zzh1124/Homework-1/blob/tjm/tjm.JPG?raw=true/tjm.JPG){width=60%}
+![Here is a picture of me](https://github.com/zzh1124/Homework-1/blob/master/tjm.JPG?raw=true/tjm.JPG){width=60%}
 
 My favorite hobbies are swimming and playing video games. An interesting fact about me is that I was born on Christmas.
 
