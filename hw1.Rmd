@@ -31,6 +31,8 @@ My favorite quote is
 
 
 ## R Markdown Syntax
+* Part 1
+
 
 ```{r theA, cache = TRUE}
 a=120
@@ -42,5 +44,18 @@ a=120
 
 ```{r, cache = TRUE, dependson = "theA"}
 (c=a/3)
+```
+
+* Part 2
+```{r rvx, cache = TRUE}
+x=rnorm(100)
+median(x)
+mean(x)
+sd(x)
+```
+Analysis of the random data: 
+The results are normal since they are very close to 0,0,1.
+```{r, dependson= "rvx"}
+![Histogram]hist(x)
 ```
 
